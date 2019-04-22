@@ -1,0 +1,16 @@
+//
+//  AnimationFrameComponent_lib.m
+//  动画测试
+//
+//  Created by huangkaizhan on 2017/3/11.
+//  Copyright © 2017年 huangkaizhan. All rights reserved.
+//
+
+#import "AnimationFrameComponent_lib.h"
+#import "AnimationFrameMaker_lib.h"
+
+@implementation AnimationFrameComponent_lib
+
+Ani_AddTime(AnimationFrameMaker_lib)
+
+@end
